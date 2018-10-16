@@ -1,0 +1,2 @@
+# logicallycorrect.github.io
+BLOG
